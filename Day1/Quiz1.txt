@@ -1,0 +1,5 @@
+Q1 : c - switch
+Q2 : a - server
+Q3 : c - client
+Q4 : d - router
+Q5 : c - next-generation firewall
