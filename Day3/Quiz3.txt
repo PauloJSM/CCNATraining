@@ -1,0 +1,5 @@
+Q1 : b - same-layer interaction
+Q2 : c - frame
+Q3 : a - Transport, Network, Data Link, Physical
+Q4 : d - Data Link, Physical
+Q5 : c - Transport
